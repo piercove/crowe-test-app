@@ -1,0 +1,8 @@
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Application\obj\Debug\crowe.Application.csprojResolveAssemblyReference.cache
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Application\bin\Debug\crowe.Application.dll.config
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Application\bin\Debug\crowe.Application.dll
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Application\bin\Debug\crowe.Application.pdb
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Application\bin\Debug\crowe.Data.dll
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Application\bin\Debug\crowe.Data.pdb
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Application\obj\Debug\crowe.Application.dll
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Application\obj\Debug\crowe.Application.pdb

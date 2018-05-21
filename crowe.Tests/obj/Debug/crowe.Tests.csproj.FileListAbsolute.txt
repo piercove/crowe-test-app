@@ -1,0 +1,68 @@
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\obj\Debug\crowe.Tests.csprojResolveAssemblyReference.cache
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\ApplicationInsights.config
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\roslyn\csc.exe
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\roslyn\vbc.exe
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\crowe.Tests.dll
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\crowe.Tests.pdb
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\crowe.Application.dll
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\crowe.dll
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\crowe.Data.dll
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\System.Web.Http.dll
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\crowe.Application.pdb
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\crowe.pdb
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\crowe.Data.pdb
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\System.Web.Http.xml
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\obj\Debug\crowe.Tests.dll
+E:\Src\Jobs\Crowe - Rest API Console\crowe\crowe.Tests\obj\Debug\crowe.Tests.pdb
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\ApplicationInsights.config
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\roslyn\csc.exe
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\roslyn\vbc.exe
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\crowe.Tests.dll
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\crowe.Tests.pdb
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\crowe.Application.dll
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\crowe.dll
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\System.Web.Http.dll
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\crowe.Data.dll
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\crowe.Application.pdb
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\crowe.pdb
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\System.Web.Http.xml
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\crowe.Data.pdb
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\GitHub\crowe-test-app\crowe.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\crowe-test-app\crowe.Tests\obj\Debug\crowe.Tests.csprojResolveAssemblyReference.cache
+E:\GitHub\crowe-test-app\crowe.Tests\obj\Debug\crowe.Tests.dll
+E:\GitHub\crowe-test-app\crowe.Tests\obj\Debug\crowe.Tests.pdb

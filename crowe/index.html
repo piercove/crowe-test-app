@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Widgets / Hello World App</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+
+    <div>
+        <h2>Some Widgets</h2>
+        <h3 id="status"></h3>
+        <ul id="widgets" />
+    </div>
+
+    
+    <script>
+        var uri = 'api/widgets';
+
+        $(document).ready(function () {
+            var statusPrefix = "Status: ";
+            $('#status').html('starting...');
+            $.getJSON(uri)
+                .done(function (data) {
+                    $.each(data, function (key, item) {
+                        $('<li>', { text: writeWidget(item) }).appendTo($('#widgets'));
+                    });
+                })
+              .fail(function () {
+                  $('#status').html(statusPrefix + 'failed :(');
+              })
+              .always(function () {
+                  $('#status').html(statusPrefix + 'complete');
+              });
+        });
+
+        function writeWidget(w) {
+            return w.Name + ': [' + w.GuidId + ']';
+        }
+    </script>
+</body>
+</html>
